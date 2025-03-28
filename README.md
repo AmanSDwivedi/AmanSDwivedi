@@ -16,7 +16,7 @@
 - 👯 Open to **Collaborations & Open Source Contributions**  
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aman-dwivedi-ab45b224b/)  
-  [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)  
+  [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:amansdwivedi2005@gmail.com)  
 
 ---
 
