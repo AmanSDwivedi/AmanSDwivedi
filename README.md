@@ -17,7 +17,7 @@ Strong focus on end-to-end projects: data collection → modeling → evaluation
 End-to-end deep learning system to classify emotions from speech audio.  
 - Extracted MFCC features using Librosa  
 - Built CNN model using TensorFlow/Keras  
-- Achieved ~XX% validation accuracy  
+- Achieved 87% validation accuracy  
 - Real-time inference pipeline  
 
 Repo: https://github.com/AmanSDwivedi/Speech-Emotion-Recognition  
